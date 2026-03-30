@@ -1,0 +1,8 @@
+.env
+node_modules/
+hydrogen.config.js
+
+.DS_Store
+src/*/.DS_Store
+
+dist/
